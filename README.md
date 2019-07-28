@@ -1,14 +1,9 @@
-# SimpleBluetoothTerminal
+# BBQ GasMeter
+This Android app is a simple visualization of a weight scale sensor (HX711) based on Arduino and connected via Bluetooth (HC-06). It shows the remaining amount of gas for gas-based BBQs. For this, the gas container is placed on a modified bathroom scale from Amazon (~15€) and the weight is used as indicator for the remaining amount of gas. Only the maximum filling of the bottle (grams) and the weight of the empty bottle needs to be set.
 
-This Android app provides a line-oriented terminal / console for classic Bluetooth (2.x) devices implementing the Bluetooth Serial Port Profile (SPP)
+## The Weight Scale
+TODO
 
-For an overview on Android Bluetooth communication see 
-[Android Bluetooth Overview](https://developer.android.com/guide/topics/connectivity/bluetooth).
-
-This App implements RFCOMM connection to the well-known SPP UUID 00001101-0000-1000-8000-00805F9B34FB
-
-## Motivation
-
-I got various requests asking for help with Android development or source code for my 
-[Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal) app.
-Here you find a simplified version of my app.
+## Fork from
+https://github.com/kai-morich/SimpleBluetoothTerminal
+Thanks for providing this app template!
