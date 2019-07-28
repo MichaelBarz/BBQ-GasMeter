@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#d84315</color>
-    <color name="colorPrimaryDark">#bf360c</color>
-    <color name="colorAccent">#ff6e40</color>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#3949AB</color>
+    <color name="colorAccent">#FFB300</color>
 
-    <color name="colorRecieveText">#00FF00</color>
-    <color name="colorSendText">#82CAFF</color>
-    <color name="colorStatusText">#FFDB58</color>
+    <color name="colorWeightOk">#4CAF50</color>
+    <color name="colorWeightCritical">#FFB300</color>
+    <color name="colorWeightEmpty">#D84315</color>
+
+    <color name="colorSendText">#C0CA33</color>
+    <color name="colorStatusText">#03A9F4</color>
 </resources>
